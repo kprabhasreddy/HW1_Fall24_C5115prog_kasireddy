@@ -277,6 +277,5 @@ This report documents the implementation and analysis of different dynamic array
 
 ## Conclusion
 
-The assignment requirements have been thoroughly satisfied through the implementation and execution detailed above. By integrating the code into a GitHub repository, the project is well-organized and accessible. The steps were meticulously followed, and the results provide valuable insights into the performance implications
-
+The assignment requirements have been thoroughly satisfied through the implementation and execution detailed above. By integrating the code into a GitHub repository, the project is well-organized and accessible. 
 
